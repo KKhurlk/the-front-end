@@ -1,6 +1,4 @@
-# zyf-vue
-
-> A Vue.js project
+项目使用说明见https://github.com/KKhurlk/the-back-end/使用说明
 
 ## Build Setup
 
